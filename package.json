@@ -1,0 +1,25 @@
+{
+  "name": "letter-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LetterEmitter.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbutler93/letter-event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbutler93/letter-event-emitter/issues"
+  },
+  "homepage": "https://github.com/zbutler93/letter-event-emitter#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
+}
